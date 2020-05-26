@@ -25,7 +25,7 @@ header> a div{
     "content_4 content_5 content_6";
     background-color: black;
     color: white;
-    background-image: url(img/bg.jpg);
+    background: url(img/bg.jpg);
     background-size: cover;
 }
 .content_2{
